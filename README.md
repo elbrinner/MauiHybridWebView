@@ -1,3 +1,11 @@
+# .NET MAUI HybridWebView experiment con Ionic y Capacittor
+
+Prueba de concepto para ver como se comporta una aplicación Ionic/React y plugin capacitor con MAUI HybridWebView
+
+![Ionic y Capacitor dentro de MAUI HybridWebView](ionic.png)
+
+
+
 # .NET MAUI HybridWebView experiment
 
 This repo has the experimental .NET MAUI HybridWebView control, which enables hosting arbitrary HTML/JS/CSS content in a WebView and enables communication between the code _in_ the WebView (JavaScript) and the code that hosts the WebView (C#/.NET). For example, if you have an existing React JS application, you could host it in a cross-platform .NET MAUI native application, and build the back-end of the application using C# and .NET.

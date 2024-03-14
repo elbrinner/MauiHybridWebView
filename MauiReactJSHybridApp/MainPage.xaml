@@ -5,12 +5,7 @@
              x:Class="MauiReactJSHybridApp.MainPage">
 
     <Grid ColumnDefinitions="*" RowDefinitions="Auto,*">
-        <Label
-                Text="{Binding TodoAppTitle}"
-                FontSize="32"
-                HorizontalOptions="Center" />
-
-        <hwv:HybridWebView Grid.Row="1" x:Name="myHybridWebView" HybridAssetRoot="ReactTodoApp" />
+        <hwv:HybridWebView Grid.Row="1" x:Name="myHybridWebView" HybridAssetRoot="build" />
     </Grid>
 
 </ContentPage>
