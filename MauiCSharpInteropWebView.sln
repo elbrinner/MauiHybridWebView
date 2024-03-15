@@ -12,6 +12,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{985C1BD2-E6D9-445E-B6C4-475AF0515D52}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		..\..\Users\elbri\Downloads\ionic.png = ..\..\Users\elbri\Downloads\ionic.png
 		LICENSE = LICENSE
 		README.md = README.md
 	EndProjectSection
